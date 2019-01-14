@@ -1,2 +1,2 @@
 # pipeline-templates
-Kypseli Pipeline Templates
+Brent Pipeline Templates
